@@ -1,0 +1,10 @@
+body {
+    background:lime;
+}
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh;
+  font-size: 100px;
+  color: darkgreen;
+}
